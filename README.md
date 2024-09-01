@@ -9,6 +9,7 @@ Table of Contents:
 2. likehood_cancellations_hotelReservations.ipynb is the main notebook with EDA, model prep and model build of the final model
 
 Installations:
+download the csv to your local working folder
 Packages required to run this notebook are listed in the import packages part of the notebook. Make sure to pip install these packages to successfully run the notebook
 Make sure to change the location of the csv read in path to your current folder where the csv is stored in the import data part of the notebook
 
